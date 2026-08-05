@@ -1,0 +1,26 @@
+{
+  "name": "acos.min",
+  "version": "1.0.0",
+  "description": "",
+  "main": "acos.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nordland-fylkeskommune/acos.min.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nordland-fylkeskommune/acos.min.js/issues"
+  },
+  "homepage": "https://github.com/Nordland-fylkeskommune/acos.min.js#readme",
+  "devDependencies": {
+    "esbuild": "^0.28.1",
+    "esbuild-minify-templates": "^0.13.1"
+  }
+}

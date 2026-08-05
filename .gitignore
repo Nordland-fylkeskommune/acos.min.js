@@ -1,3 +1,1 @@
-*
-!.gitignore
-!acos.min.js
+node_modules/
